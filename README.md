@@ -26,4 +26,3 @@ Remove state-specific logic from the VendingMachine class.
 Introduce a reference to the current VendingMachineState object.
 Delegate actions like selectItem, insertCoin, dispenseItem, and setOutOfOrder to the current state object through its corresponding methods.
 
-# VendingMachine
